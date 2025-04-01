@@ -1,6 +1,6 @@
 fun main() {
 	println("Hello world")
-
+	Solution().twoSum(emptyArrayList() , 2)
 }
 
 class Solution {
